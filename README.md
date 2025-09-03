@@ -10,4 +10,4 @@ A subset of the UAV image datasets used in this study is openly available on Goo
 
 👉 [Download from Google Drive](https://drive.google.com/drive/folders/1-Mh9XvGjRr2OxbcNEDQOQ-NWvmeNIZSn?usp=drive_link)
 
-For access to the full dataset, please contact **hycen@zju.edu.cn**.
+Given the limited storage capacity, please reach out to **hycen@zju.edu.cn** to request full access to the dataset.
