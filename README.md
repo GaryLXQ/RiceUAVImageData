@@ -1,4 +1,4 @@
-# RiceColorCorrectionData
+# RiceUAVImageData
 
 This repository hosts the dataset information for the paper:
 
