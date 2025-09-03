@@ -2,7 +2,7 @@
 
 This repository hosts the dataset information for the paper:
 
-**"Dual UAV Cooperative Flight for Color Correction"**
+**"Precise Image Color Correction Based on Dual Unmanned Aerial Vehicle Cooperative Flight"**
 
 ## Dataset Access
 
